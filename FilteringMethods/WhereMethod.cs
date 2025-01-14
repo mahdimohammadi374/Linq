@@ -2,7 +2,7 @@
 
 public class WhereMethod
 {
-    public void Simple()
+    public void Use_Where()
     {
         List<Car> cars = GetCars();
 
@@ -20,7 +20,7 @@ public class WhereMethod
         }
     }
 
-    public void Use_Index()
+    public void Use_Where_With_Index()
     {
         List<Car> cars = GetCars();
 
